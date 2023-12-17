@@ -1,2 +1,5 @@
-# csc-591-quantum
-CSC 591 Quantum Final Project - Constraint Satisfiability Problem
+# CSC 591 Quantum Final Project - Constraint Satisfiability Problem
+This was a group project that me and Shubdeep Mohapatra worked on for the CSC 591 Quantum Computing class. You can find the report `Quantum Final Report - Constraint Satisfaction.pdf` and code `3-SAT-Grovers-Final (1).ipynb` in this repository. Please read the abstract below for more details:
+
+We solved the problem of Constraint Satisfiability–specifically the Boolean Satisfiability Test–using both classical and, more importantly, quantum systems using Grover’s algorithm. We present related work describing both algorithms, explain how both methods work in detail and our own design and implementation of the same. We conclude by stating the results of both methods and determine that the quantum algorithm can perform similarly to the classical algorithm. However, there are limitations that need to be addressed with the quantum algorithm, such as the substantial increase in error when using a real quantum machine as well as the critical ratio limitation within the 3-SAT problem.
+
